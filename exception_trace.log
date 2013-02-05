@@ -1,0 +1,57 @@
+
+exercice1: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_w      Unhandled exception:         
+<0000000002CA0420>  (From SDL_WRAPPER)     External event.               Fail
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_w                                   
+<0000000002CA0420>  (From SDL_WRAPPER)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @8                                             
+<0000000002CA0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000002CA0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+exercice1: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_w      Unhandled exception:         
+<0000000002AE0420>  (From SDL_WRAPPER)     External event.               Fail
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_w                                   
+<0000000002AE0420>  (From SDL_WRAPPER)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @8                                             
+<0000000002AE0420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000002AE0420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+exercice1: system execution failed.
+Following is the set of recorded exceptions:
+
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_h      Unhandled exception:         
+<0000000002C30420>  (From SDL_WRAPPER)     External event.               Fail
+-------------------------------------------------------------------------------
+APPLICATION         get_sdl_surface_h                                   
+<0000000002C30420>  (From SDL_WRAPPER)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         make @8                                             
+<0000000002C30420>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+APPLICATION         root's creation                                     
+<0000000002C30420>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
