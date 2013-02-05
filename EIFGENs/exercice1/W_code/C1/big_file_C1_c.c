@@ -1,6 +1,0 @@
-#include "sd837d.c"
-#include "sd837f.c"
-#include "sd837.c"
-#include "ap838d.c"
-#include "ap838f.c"
-#include "ap838.c"
