@@ -1,8 +1,7 @@
 note
 	description: "Summary description for {SDL_WRAPPER}."
-	author: "Véronique Blais et Tommy Teasdale"
+	author: "Veronique Blais et Tommy Teasdale"
 	date: "31 janvier 2012"
-	revision: "$Revision$"
 
 class
 	SDL_WRAPPER

@@ -1,8 +1,7 @@
 note
 	description : "Affichage d'une image pendant 2 secondes."
-	autor		: "Véronique Blais et Tommy Teasdale"
-	date        : "31 Janvier 2013"
-	revision    : "$Revision$"
+	autor		: "Veronique Blais et Tommy Teasdale"
+	date        : "6 fevirer 2013"
 
 class
 	APPLICATION
